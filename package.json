@@ -1,0 +1,26 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "A Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpalmquist84/twitterBot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot"
+  ],
+  "author": "David S. Palmquist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpalmquist84/twitterBot/issues"
+  },
+  "homepage": "https://github.com/dpalmquist84/twitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
